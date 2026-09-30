@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1328-fe-hard-32-tanstack-query-react-query",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1328-fe-hard-32-tanstack-query-react-query": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1328-fe-hard-32-tanstack-query-react-query",
+    "origin"
+  ]
+}
